@@ -1,0 +1,19 @@
+.gitignore
+  s_31c1f7aa641402::t_fc583c787c903a 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "999027d7acebe470015a2780da9660e8dbf4c7e5",
+  "prompts": {},
+  "sessions": {
+    "s_31c1f7aa641402": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ecf92-c684-7fc3-80d2-bd43757f6f1c",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

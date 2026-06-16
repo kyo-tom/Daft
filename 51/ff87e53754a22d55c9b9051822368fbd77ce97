@@ -1,0 +1,286 @@
+tests/text/test_text_length_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/text/md5_calculator.md
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_12e7327711373a 43
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+docs/text/multilingual_text_quality_scorer.md
+  s_fb6341db5a9388::t_61d6612500a3e6 100
+  s_fb6341db5a9388::t_12e7327711373a 47
+  s_fb6341db5a9388::t_a216f399dcaecd 70-71
+Dockerfile
+  h_9e8b59a166efb2 52
+  s_56b48cd4b86e5b::t_848dbb0fa2d1d5 24,26-29,32-38
+docs/text/text_safety_scorer.md
+  s_fb6341db5a9388::t_a216f399dcaecd 70-71
+  s_fb6341db5a9388::t_61d6612500a3e6 100
+  s_fb6341db5a9388::t_12e7327711373a 47
+docs/text/pre_sign_url_for_s3.md
+  s_fb6341db5a9388::t_12e7327711373a 70
+  s_fb6341db5a9388::t_6f41bf8f3ee505 146
+  s_fb6341db5a9388::t_a216f399dcaecd 109-110
+tests/text/test_url_ratio_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/text/regex_replacer.md
+  s_fb6341db5a9388::t_61d6612500a3e6 112
+  s_fb6341db5a9388::t_12e7327711373a 47
+  s_fb6341db5a9388::t_a216f399dcaecd 81-82
+example/audio/audio_denoise.py
+  s_fb6341db5a9388::t_a216f399dcaecd 10-11
+example/audio/test.py
+  s_fb6341db5a9388::t_12e7327711373a 9-10
+tests/text/test_special_characters_ratio_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/audio/audio_denoise.md
+  s_fb6341db5a9388::t_12e7327711373a 49,75-76
+  s_fb6341db5a9388::t_61d6612500a3e6 91
+docs/text/word_repetition_calculator.md
+  s_fb6341db5a9388::t_a216f399dcaecd 71-72
+  s_fb6341db5a9388::t_61d6612500a3e6 101
+  s_fb6341db5a9388::t_12e7327711373a 47
+docs/audio/asr_doubao_poller.md
+  s_fb6341db5a9388::t_61d6612500a3e6 125
+  s_fb6341db5a9388::t_12e7327711373a 66,106-107
+tests/audio/test_audio_split_by_timestamps.py
+  s_fb6341db5a9388::t_12e7327711373a 12
+tests/text/test_remove_links.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/video/qwen_vl_video_understanding.md
+  s_fb6341db5a9388::t_12e7327711373a 62,96-97
+  s_fb6341db5a9388::t_61d6612500a3e6 120
+AGENTS.md
+  s_fb6341db5a9388::t_e2d385c7ca07d2 9-15,32-36,42-43,45-46,53,56-57,106-109,116
+  s_56b48cd4b86e5b::t_138a6cf02efe7c 17-19,54-55
+tests/text/test_text_operator_imports.py
+  s_fb6341db5a9388::t_33fd0f6946c052 29,43-54
+docs/pip_list.md
+  h_9e8b59a166efb2 72
+docs/audio/asr_doubao_submitter.md
+  s_fb6341db5a9388::t_61d6612500a3e6 119
+  s_fb6341db5a9388::t_12e7327711373a 68,100-101
+docs/text/bullet_line_ratio_calculator.md
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_12e7327711373a 43
+docs/text/special_characters_ratio_calculator.md
+  s_fb6341db5a9388::t_a216f399dcaecd 67-68
+  s_fb6341db5a9388::t_61d6612500a3e6 96
+  s_fb6341db5a9388::t_12e7327711373a 43
+tests/text/test_regex_replacement.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/video/vlm_video_doubao.md
+  s_fb6341db5a9388::t_a216f399dcaecd 122-123
+  s_fb6341db5a9388::t_61d6612500a3e6 158
+  s_fb6341db5a9388::t_12e7327711373a 80
+tests/text/test_md5_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+tests/conftest.py
+  h_9e8b59a166efb2 11-19
+docs/text/copyright_cleaner.md
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_12e7327711373a 43
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+tests/audio/test_audio_convert.py
+  s_fb6341db5a9388::t_12e7327711373a 12
+tests/text/test_whitespace_normalizer.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/audio/audio_asr_firered.md
+  s_fb6341db5a9388::t_12e7327711373a 59,87-88
+  s_fb6341db5a9388::t_61d6612500a3e6 109
+tests/text/test_bullet_line_ratio_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/text/chunk_text_sentence_similarity.md
+  s_fb6341db5a9388::t_61d6612500a3e6 100
+  s_fb6341db5a9388::t_12e7327711373a 47
+  s_fb6341db5a9388::t_a216f399dcaecd 71-72
+tests/audio/test_audio_asr_firered.py
+  s_fb6341db5a9388::t_12e7327711373a 13
+tests/text/test_pre_sign_url_for_s3.py
+  s_fb6341db5a9388::t_12e7327711373a 19-20
+docs/text/clean_email.md
+  s_fb6341db5a9388::t_a216f399dcaecd 79-80
+  s_fb6341db5a9388::t_61d6612500a3e6 107
+  s_fb6341db5a9388::t_12e7327711373a 47
+docs/text/chunk_text_sentence_splitter.md
+  s_fb6341db5a9388::t_12e7327711373a 45
+  s_fb6341db5a9388::t_61d6612500a3e6 99
+  s_fb6341db5a9388::t_a216f399dcaecd 69-70
+docs/text/multilingual_text_translate.md
+  s_fb6341db5a9388::t_12e7327711373a 48
+  s_fb6341db5a9388::t_a216f399dcaecd 72-73
+  s_fb6341db5a9388::t_61d6612500a3e6 102
+tests/video/test_vlm_video_doubao.py
+  s_fb6341db5a9388::t_12e7327711373a 11
+tests/text/test_word_repetition_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+example/audio/audio_convert.py
+  s_fb6341db5a9388::t_a216f399dcaecd 10-11
+pyproject.toml
+  s_fb6341db5a9388::t_343bc4a7bdac65 1-2
+docs/text/whitespace_normalizer.md
+  s_fb6341db5a9388::t_61d6612500a3e6 114
+  s_fb6341db5a9388::t_12e7327711373a 53
+  s_fb6341db5a9388::t_a216f399dcaecd 86-87
+docs/audio/audio_split_by_timestamps.md
+  s_fb6341db5a9388::t_12e7327711373a 53,82-83
+  s_fb6341db5a9388::t_61d6612500a3e6 101
+docs/custom_udf.md
+  s_fb6341db5a9388::t_12e7327711373a 141,180,220-221
+  s_fb6341db5a9388::t_e2d385c7ca07d2 249-250
+docs/text/content_risk_rec.md
+  s_fb6341db5a9388::t_12e7327711373a 51
+  s_fb6341db5a9388::t_a216f399dcaecd 74-75
+  s_fb6341db5a9388::t_61d6612500a3e6 103
+Makefile
+  s_56b48cd4b86e5b::t_5cc5499370bd3e 5-6,25,29,32,36,39,43-44,48
+  s_56b48cd4b86e5b::t_08fba9af0c0bcf 2-4,23-24,26-28,30-31,33-35,37-38,40-42,45-47
+  s_fb6341db5a9388::t_0d48ae44d323de 1,7,12,15,18-19
+  s_56b48cd4b86e5b::t_85fa3c42c98084 8-10,17
+  s_fb6341db5a9388::t_343bc4a7bdac65 11,13-14,16,20-22
+docs/text/maximum_word_length_calculator.md
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_12e7327711373a 43
+docs/document/pdf_parse_doubao_submitter.md
+  s_fb6341db5a9388::t_12e7327711373a 58,92-93
+  s_fb6341db5a9388::t_61d6612500a3e6 115
+tests/text/test_repeated_lines_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+packages/dtoperator/pyproject.toml
+  h_9e8b59a166efb2 7,12
+  s_fb6341db5a9388::t_343bc4a7bdac65 1-6,8-11,13-20
+docs/text/language_recognition.md
+  s_fb6341db5a9388::t_12e7327711373a 45
+  s_fb6341db5a9388::t_a216f399dcaecd 68-69
+  s_fb6341db5a9388::t_61d6612500a3e6 97
+example/text/chunk.py
+  s_fb6341db5a9388::t_12e7327711373a 8
+packages/dtoperator_core/README.md
+  s_fb6341db5a9388::t_343bc4a7bdac65 1-3
+docs/text/alphanumeric_ratio_calculator.md
+  s_fb6341db5a9388::t_12e7327711373a 45
+  s_fb6341db5a9388::t_a216f399dcaecd 68-69
+  s_fb6341db5a9388::t_61d6612500a3e6 96
+example/video/qwen_vl_video_understanding.py
+  s_fb6341db5a9388::t_a216f399dcaecd 8-9
+packages/dtoperator_core/pyproject.toml
+  h_9e8b59a166efb2 7
+  s_fb6341db5a9388::t_343bc4a7bdac65 1-6,8-17
+example/audio/asr2text.py
+  s_fb6341db5a9388::t_12e7327711373a 7-8
+tests/text/test_commoncrawl_content_extractor.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+tests/text/test_clean_email.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+tests/text/test_copyright_cleaner.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+packages/dtoperator/README.md
+  s_fb6341db5a9388::t_343bc4a7bdac65 1-3
+tests/video/test_qwen_vl_video_understanding.py
+  s_fb6341db5a9388::t_12e7327711373a 16
+tests/_pathfix.py
+  s_fb6341db5a9388::t_343bc4a7bdac65 9-17
+example/audio/test1.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/text/en_text_quality_scorer.md
+  s_fb6341db5a9388::t_61d6612500a3e6 96
+  s_fb6341db5a9388::t_a216f399dcaecd 67-68
+  s_fb6341db5a9388::t_12e7327711373a 44
+docs/text/commoncrawl_content_extractor.md
+  s_fb6341db5a9388::t_a216f399dcaecd 69-70
+  s_fb6341db5a9388::t_61d6612500a3e6 99
+  s_fb6341db5a9388::t_12e7327711373a 45
+tests/text/test_chinese_text_converter.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/text/text_length_calculator.md
+  s_fb6341db5a9388::t_12e7327711373a 43
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+docs/README.md
+  s_fb6341db5a9388::t_12e7327711373a 21
+  s_fb6341db5a9388::t_c9994af632e428 112
+  s_fb6341db5a9388::t_61d6612500a3e6 3
+  s_fb6341db5a9388::t_e2d385c7ca07d2 42,55,63,116
+  s_fb6341db5a9388::t_14d7ee9bd5bfc3 10,53-54,56-59
+tests/text/test_chunk_text_sentence_splitter.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+tests/text/test_alphanumeric_ratio_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+example/video/video_understanding.py
+  s_fb6341db5a9388::t_a216f399dcaecd 4-5
+tests/text/test_text_feature_operators.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+tests/text/test_maximum_word_length_calculator.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+example/audio/audio_asr_firered.py
+  s_fb6341db5a9388::t_a216f399dcaecd 9-10
+docs/text/chinese_text_converter.md
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_12e7327711373a 43
+docs/text/perplexity_calculator.md
+  s_fb6341db5a9388::t_12e7327711373a 46
+  s_fb6341db5a9388::t_61d6612500a3e6 100
+  s_fb6341db5a9388::t_a216f399dcaecd 70-71
+example/document/pdfanalysis.py
+  s_fb6341db5a9388::t_a216f399dcaecd 4
+  h_9e8b59a166efb2 5
+docs/text/clean_html_tag.md
+  s_fb6341db5a9388::t_a216f399dcaecd 78-79
+  s_fb6341db5a9388::t_12e7327711373a 47
+  s_fb6341db5a9388::t_61d6612500a3e6 106
+docs/text/remove_links.md
+  s_fb6341db5a9388::t_61d6612500a3e6 95
+  s_fb6341db5a9388::t_12e7327711373a 44
+  s_fb6341db5a9388::t_a216f399dcaecd 67-68
+example/audio/audio_split_by_timestamps.py
+  s_fb6341db5a9388::t_a216f399dcaecd 8-9
+docs/text/repeated_lines_calculator.md
+  s_fb6341db5a9388::t_12e7327711373a 43
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+docs/document/pdf_parse_doubao_poller.md
+  s_fb6341db5a9388::t_12e7327711373a 66,113-114
+README.md
+  s_fb6341db5a9388::t_343bc4a7bdac65 1,3-14
+tests/text/test_clean_html_tag.py
+  s_fb6341db5a9388::t_12e7327711373a 6
+docs/text/url_ratio_calculator.md
+  s_fb6341db5a9388::t_61d6612500a3e6 94
+  s_fb6341db5a9388::t_a216f399dcaecd 66-67
+  s_fb6341db5a9388::t_12e7327711373a 43
+tests/audio/test_audio_denoise.py
+  s_fb6341db5a9388::t_12e7327711373a 10
+docs/audio/audio_convert.md
+  s_fb6341db5a9388::t_12e7327711373a 47,73-74
+  s_fb6341db5a9388::t_61d6612500a3e6 89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "51ff87e53754a22d55c9b9051822368fbd77ce97",
+  "prompts": {},
+  "humans": {
+    "h_9e8b59a166efb2": {
+      "author": "sihuo <sihuo@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_56b48cd4b86e5b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ebb45-ffa5-7461-9e6c-be1a6d28ff8c",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    },
+    "s_fb6341db5a9388": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49c6-7d1e-7971-8455-657a89719ef8",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+docs/README.md
+  s_6c6f91eb674477::t_3065c5b87aa187 60
+Dockerfile
+  s_6c6f91eb674477::t_3065c5b87aa187 26,34
+packages/dtoperator/src/dtoperator/functions/image/__init__.py
+  s_6c6f91eb674477::t_3065c5b87aa187 4,6
+packages/dtoperator/pyproject.toml
+  s_6c6f91eb674477::t_3065c5b87aa187 15-20
+  h_2544db2d1094d6 7
+packages/dtoperator/src/dtoperator/functions/image/image_easyocr.py
+  s_6c6f91eb674477::t_3065c5b87aa187 1-165
+docs/image/image_easyocr.md
+  s_6c6f91eb674477::t_3065c5b87aa187 1-105
+tests/image/test_image_easyocr.py
+  h_2544db2d1094d6 53-54
+  s_6c6f91eb674477::t_3065c5b87aa187 1-2,4,7-9,11,13-14
+  s_6c6f91eb674477::t_732131b47f2e69 50-52,102
+  s_6c6f91eb674477::t_dca63448cbacd3 3,5-6,10,12,15-17,19-49,55-58,60-64,68-101
+  s_6c6f91eb674477::t_d8ff4446ae44bf 18,59,66
+  s_6c6f91eb674477::t_af3aa93a752190 65,67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.10",
+  "base_commit_sha": "7fa6ee74eb0e26c95b76e751f4f5cf3c41a16b98",
+  "prompts": {},
+  "humans": {
+    "h_2544db2d1094d6": {
+      "author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_6c6f91eb674477": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019eeded-0ea7-7192-960a-ee3773c4c42b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  }
+}

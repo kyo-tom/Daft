@@ -1,0 +1,14 @@
+tests/conftest.py
+  h_5245667995f293 3-4,7-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4e87663782ecba47e83282d8e939c2f66dd4ee80",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

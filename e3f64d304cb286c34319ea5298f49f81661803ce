@@ -1,0 +1,30 @@
+docs/image/image_crop.md
+  s_5d8a4dad1afc5e::t_bd6922f994f7ee 1-122
+tests/image/test_image_crop.py
+  s_5d8a4dad1afc5e::t_bd6922f994f7ee 1-4,6-16,18-19,23-172
+  h_2544db2d1094d6 191-198,205-211,213,219,224-225,227,229-230
+  s_5d8a4dad1afc5e::t_0e3e42d52ae94a 5,17,20-22,173-190,199-204,212,214-218,220-223,226,228
+packages/dtoperator/src/dtoperator/functions/image/image_crop.py
+  s_5d8a4dad1afc5e::t_bd6922f994f7ee 7,9,23-32,47-63,92-94,101-102,106-107,152-153,163-165,172-173,189-194,197-205,211,217,219-221,223-227,232-233,236-237,246-260,262,264,273,276-280,283,285,288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "e3f64d304cb286c34319ea5298f49f81661803ce",
+  "prompts": {},
+  "humans": {
+    "h_2544db2d1094d6": {
+      "author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_5d8a4dad1afc5e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f166d-9b34-71c1-a493-a3afd642093d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  }
+}

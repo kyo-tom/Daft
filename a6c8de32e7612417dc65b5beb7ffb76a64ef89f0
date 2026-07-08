@@ -1,0 +1,44 @@
+AGENTS.md
+  s_fb6341db5a9388::t_64e54af0831d60 37
+tests/video/test_qwen_vl_video_understanding.py
+  s_fb6341db5a9388::t_4b4f29ca599e0d 229-241,246-248
+  s_fb6341db5a9388::t_9566ebc741c3cb 11,191,194-197,242-245,249
+  s_fb6341db5a9388::t_009963ac4e0041 20-27,40-43,55-57
+docs/video/qwen_vl_video_understanding.md
+  s_fb6341db5a9388::t_4b4f29ca599e0d 41
+  s_fb6341db5a9388::t_cc849d61241548 1-11,13-24,27-40,42-78,80-119
+  s_fb6341db5a9388::t_e6bbdeeb3a9a3e 26,79
+  s_fb6341db5a9388::t_594fc875a89083 12,25
+example/video/qwen_vl_video_understanding.py
+  s_fb6341db5a9388::t_6f4f1c8b93ffb5 1-50
+docs/pip_list.md
+  h_9e8b59a166efb2 1-500
+pyproject.toml
+  h_9e8b59a166efb2 7
+Dockerfile
+  h_9e8b59a166efb2 25-28
+dtoperator/functions/video/qwen_vl_video_understanding.py
+  s_fb6341db5a9388::t_4b4f29ca599e0d 38,59,186-187,191-192,196-197
+  s_fb6341db5a9388::t_44674b4ad5c25b 141,149,154,157-162,164-166,168-170,172,174-182,188,193,198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a6c8de32e7612417dc65b5beb7ffb76a64ef89f0",
+  "prompts": {},
+  "humans": {
+    "h_9e8b59a166efb2": {
+      "author": "sihuo <sihuo@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_fb6341db5a9388": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49c6-7d1e-7971-8455-657a89719ef8",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

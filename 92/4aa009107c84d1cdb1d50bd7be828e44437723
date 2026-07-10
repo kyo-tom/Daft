@@ -1,0 +1,21 @@
+tests/catalog/test_gravitino.py
+  s_95426524508fc4::t_c5988958bdaf0e 14-16
+  s_95426524508fc4::t_a1a61f58a713e7 636-694
+  s_95426524508fc4::t_6d53364244c773 695
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "924aa009107c84d1cdb1d50bd7be828e44437723",
+  "prompts": {},
+  "sessions": {
+    "s_95426524508fc4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "057018c5-4294-47b5-9f05-3a8fede12695",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+daft/catalog/__gravitino/_catalog.py
+  s_fafcea484a0f26::t_cbdccf1261c4a7 197
+  s_fafcea484a0f26::t_74ddb049f504b2 285-308
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4683a5a7a9f5dcdcada4643af5537590d345317d",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  },
+  "sessions": {
+    "s_fafcea484a0f26": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2cd63f1d-e6b5-468e-8c3c-2cb2b8a67d44",
+        "model": "gpt-5.5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

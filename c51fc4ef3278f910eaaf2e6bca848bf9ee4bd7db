@@ -1,0 +1,36 @@
+packages/dtoperator/src/dtoperator/functions/image/image_hash.py
+  s_5068275faf4f3d::t_b3dda2eb0ce9fc 30-32,73-75,77-79,237-238,240-256,273,279-321
+  s_5068275faf4f3d::t_886bbad50bd8c3 9,72,235-236,239,257-272,274-278
+  s_5068275faf4f3d::t_9b362e98f9f764 67,81
+docs/image/image_hash.md
+  s_5068275faf4f3d::t_9da1f44ef45eef 14-15
+docs/README.md
+  s_5068275faf4f3d::t_81b8db8205f716 66
+tests/image/test_image_hash.py
+  h_2544db2d1094d6 119
+  s_5068275faf4f3d::t_82eef119353cf5 19-22
+  s_5068275faf4f3d::t_a4eea45e8f0b12 68,72-73,75-78
+  s_5068275faf4f3d::t_25f81de83ddd86 82-102,105-118
+  s_5068275faf4f3d::t_650b4768ad80c9 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "c51fc4ef3278f910eaaf2e6bca848bf9ee4bd7db",
+  "prompts": {},
+  "humans": {
+    "h_2544db2d1094d6": {
+      "author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_5068275faf4f3d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019efa30-40e3-7a72-a1c3-d4b42c94919a",
+        "model": "gpt-5.5"
+      },
+      "human_author": "xiaofeng <xiaofeng@dtstack.com>"
+    }
+  }
+}

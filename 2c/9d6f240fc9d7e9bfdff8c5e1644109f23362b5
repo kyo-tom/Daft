@@ -1,0 +1,73 @@
+src/daft-io/src/lib.rs
+  s_ec2e28ca2dee07::t_7a73c6409c30bb 19,33,284-286,301,305,504,519,532,631
+examples/video_pipeline/run_facts_to_iceberg.py
+  s_ec2e28ca2dee07::t_c91a99c632e0d9 322,329-334,541,547-553
+  s_ec2e28ca2dee07::t_3ab1337b203378 22,33-39,68-69,100-105,111,113-114,139-142,144-146,148,151-152,326-328,353,360,364,367-373,483,660,764,791-792
+  s_ec2e28ca2dee07::t_9d8f36f181f96d 497-500,517,521
+  s_ec2e28ca2dee07::t_d2823341f34a7c 321
+  s_ec2e28ca2dee07::t_9eb3894673776c 323
+  s_ec2e28ca2dee07::t_8efb8edd369710 496
+src/daft-io/src/tos.rs
+  s_ec2e28ca2dee07::t_1e1e1be8cb7d79 1-1401
+src/daft-io/Cargo.toml
+  s_ec2e28ca2dee07::t_7a73c6409c30bb 51
+examples/video_pipeline/run_iceberg_to_elasticsearch.py
+  s_ec2e28ca2dee07::t_9708d2b26bd23e 492
+  s_ec2e28ca2dee07::t_a89f3b1ce5d65d 14,42,99,470-479,482,488
+  s_ec2e28ca2dee07::t_3ab1337b203378 16,96,98,129-132,134-136,138,141-142,323,325
+  h_5245667995f293 108
+  s_ec2e28ca2dee07::t_ddcf344daad11c 467-469,480-481,483-487,489-490
+  s_ec2e28ca2dee07::t_66c17fbbcfe38b 55-56,110-111,248-249
+  s_ec2e28ca2dee07::t_beff571ec972c8 57,112,258-259,267-268
+daft/dt/udfs/to_tos_presigned_url.py
+  s_ec2e28ca2dee07::t_9d8f36f181f96d 1-61
+daft/dt/udfs/__init__.py
+  s_ec2e28ca2dee07::t_c91a99c632e0d9 9,47
+  s_ec2e28ca2dee07::t_9d8f36f181f96d 7-8,44-45
+daft/dt/udfs/las_long_video_understand.py
+  s_ec2e28ca2dee07::t_b420dcc2317fbe 55
+  s_ec2e28ca2dee07::t_c91a99c632e0d9 1-54,56-135
+daft/dt/udfs/README.md
+  s_70366ff3215ac4::t_0e47a38519381a 27-30,33,49,62,88-89,100
+daft/dt/udfs/extract_wav.py
+  s_70366ff3215ac4::t_3ef6cdb8da883c 4,11-22,34,51
+daft/dt/udfs/las_asr.py
+  s_eaeca11a8517f6::t_e03aee534c76e4 1-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "2c9d6f240fc9d7e9bfdff8c5e1644109f23362b5",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  },
+  "sessions": {
+    "s_70366ff3215ac4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8eef5c4b-5af5-43c6-9685-daa2e0043983",
+        "model": "unknown"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    },
+    "s_eaeca11a8517f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ad3f5a46-4e1a-4849-8827-5c1638c9b796",
+        "model": "unknown"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    },
+    "s_ec2e28ca2dee07": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f7d6b-7feb-7622-95cc-1c500ad7e42b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+daft/io/iceberg/_changelog_postprocess.py
+  s_c1c856772fbfa2::t_62883fe64cf88f 59-60
+  s_c1c856772fbfa2::t_ecf743fcbaef93 7,26-30,32-34,43-45,47-50,52-57,61-62
+tests/io/iceberg/test_iceberg_changes.py
+  s_c1c856772fbfa2::t_bfd731ed196cce 282-296,299-305,308-309
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "062f4765d654ef1770a48c6790457179f6edf45e",
+  "prompts": {},
+  "sessions": {
+    "s_c1c856772fbfa2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fa842-fa2a-76d3-adab-4ac627a5ef64",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

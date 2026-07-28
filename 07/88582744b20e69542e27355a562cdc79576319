@@ -1,0 +1,55 @@
+daft/io/__init__.py
+  s_1ee25de3d4fcb7::t_52970091015f2b 79
+  s_1ee25de3d4fcb7::t_4973cfbfa3e311 25
+daft/__init__.py
+  s_1ee25de3d4fcb7::t_f25ccdd458d7d4 149
+  s_1ee25de3d4fcb7::t_9bd5978dd48b58 286
+daft/io/iceberg/_changelog_planning.py
+  s_1ee25de3d4fcb7::t_472c67a18bf727 160-164
+  s_1ee25de3d4fcb7::t_8087574b851dc1 36
+  s_1ee25de3d4fcb7::t_aa92a5c09256d3 1-35,37-159,165-177
+daft/io/iceberg/_changelog_postprocess.py
+  s_1ee25de3d4fcb7::t_7667fec48d5f06 85-86
+  s_1ee25de3d4fcb7::t_3b909731c3c0b5 1-2,5,7-12,18,20,24-36,38,41-42,46-47,65-66,81,84,87,98-100,105-117,119-121,128,131-136,140-146,149-151,153
+  s_1ee25de3d4fcb7::t_3aca00bbe30477 101-104
+  s_1ee25de3d4fcb7::t_f3aad9f49b95f2 125-126,129-130
+  s_1ee25de3d4fcb7::t_1d3bb50403d48b 137-139
+  s_1ee25de3d4fcb7::t_35222dde94b97c 4
+  s_1ee25de3d4fcb7::t_b1a6cc1d48d952 6
+  s_1ee25de3d4fcb7::t_c08258e671aee5 21-23
+  s_1ee25de3d4fcb7::t_64575b7abeb8da 91-96
+  s_1ee25de3d4fcb7::t_3e184341f32852 122-124,127
+  s_1ee25de3d4fcb7::t_d5a7e0563beab8 88-90,97
+  s_1ee25de3d4fcb7::t_a4018bd00b62f9 73
+  s_1ee25de3d4fcb7::t_7c6129e3f67484 13-17,19,37,39-40,43-45,48-64,67-72,74-80,82-83,118,147-148,152,154
+  s_1ee25de3d4fcb7::t_49c02be745f35e 3
+daft/io/iceberg/_iceberg.py
+  s_1ee25de3d4fcb7::t_1556baef41df6d 191-200,202-281
+  s_1ee25de3d4fcb7::t_abd9bb8a14f896 201
+tests/io/iceberg/test_iceberg_changes.py
+  s_1ee25de3d4fcb7::t_14489d9859ff85 153-155
+  s_1ee25de3d4fcb7::t_e2421e01bbd3b4 43-46
+  s_1ee25de3d4fcb7::t_7496134fcc4097 1-42,47-110,117-135,140-152,156-206
+  s_1ee25de3d4fcb7::t_d60ade5eb7dfff 111-116
+  s_1ee25de3d4fcb7::t_502e94b269c0b5 136-139
+daft/io/iceberg/iceberg_changes_scan.py
+  s_1ee25de3d4fcb7::t_d7afaad4c33bc5 62-64
+  s_1ee25de3d4fcb7::t_d667b92cb59c60 1-36,39,41-61,65-196
+  s_1ee25de3d4fcb7::t_3e989607e12f75 37-38,40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "0788582744b20e69542e27355a562cdc79576319",
+  "prompts": {},
+  "sessions": {
+    "s_1ee25de3d4fcb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e593429-ebab-4fd4-8f43-90ac4b2a84ef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

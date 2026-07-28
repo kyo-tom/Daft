@@ -1,0 +1,49 @@
+daft/io/iceberg/_changelog_postprocess.py
+  s_1ee25de3d4fcb7::t_1d4272474b0636 59,70-71
+  s_1ee25de3d4fcb7::t_8bb3a6500b73e6 79-84
+  s_1ee25de3d4fcb7::t_3c5335d14f0861 4-5,15,19-20,24-47,50,52-57,60-67,69,72,75,91-97,109-126,141-144,147-149,154-160,162,164-165
+daft/io/iceberg/_changelog_planning.py
+  s_1ee25de3d4fcb7::t_ccc8235e6d815c 104-108,114-120
+  s_1ee25de3d4fcb7::t_88af39851741a0 36-46,48-49
+  s_1ee25de3d4fcb7::t_65e886399ec759 47
+  s_1ee25de3d4fcb7::t_2fa553b8935fb7 121
+daft/io/iceberg/iceberg_changes_scan.py
+  s_1ee25de3d4fcb7::t_8811563cef5d25 141-147
+daft/io/__init__.py
+  s_1ee25de3d4fcb7::t_2f7d0d1bc1ac97 25
+  s_1ee25de3d4fcb7::t_c34f0c3f931477 73
+daft/io/iceberg/_iceberg.py
+  s_1ee25de3d4fcb7::t_b76d7c21ae1724 202,208-211,229,233-237
+  s_1ee25de3d4fcb7::t_90a7eac7e79931 286
+tests/io/iceberg/test_iceberg_changes.py
+  s_1ee25de3d4fcb7::t_cfb714f39056f1 299-302
+  s_1ee25de3d4fcb7::t_a5aa7adbf68ab7 171-172,176-178,195-197
+  s_1ee25de3d4fcb7::t_0e1d73f4e91827 244-247
+  s_1ee25de3d4fcb7::t_48c723b5bdaa23 433-435
+  s_1ee25de3d4fcb7::t_a0812c9042ea40 3-4,11,13,23,45-54,62,77-81,112,114,118-134,136-170,173-175,179-194,198-223,225-243,248-261,267-279,283-298,303-318,320-362,364,404-432,436-458,476-477
+  s_1ee25de3d4fcb7::t_87b04a74eef966 135
+  s_1ee25de3d4fcb7::t_332c95975aed38 262-266
+  s_1ee25de3d4fcb7::t_0785d8adfb41e1 280-282
+  s_1ee25de3d4fcb7::t_575da7102b1129 402-403
+  s_1ee25de3d4fcb7::t_5f230b7db0d671 113,115-117
+  s_1ee25de3d4fcb7::t_9fa149f591edfa 224,319,363,365,478,480
+daft/__init__.py
+  s_1ee25de3d4fcb7::t_2cb0375b23d6e5 225
+  s_1ee25de3d4fcb7::t_498114fd80968c 143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "afa2f018da14aafe6433b9733580404f3dc9cc48",
+  "prompts": {},
+  "sessions": {
+    "s_1ee25de3d4fcb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e593429-ebab-4fd4-8f43-90ac4b2a84ef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

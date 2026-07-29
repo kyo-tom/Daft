@@ -1,0 +1,60 @@
+daft/io/iceberg/iceberg_changes_scan.py
+  s_b2db8f0a2223d1::t_429d3fcedc4e66 31
+  s_b2db8f0a2223d1::t_8db0bcb58c6f08 134-138
+tests/io/iceberg/test_iceberg_schema_evolution_cdc.py
+  s_b2db8f0a2223d1::t_791829d42d9043 1-187
+  s_b2db8f0a2223d1::t_ffb42131a7bbf5 188-190
+daft/io/iceberg/_iceberg.py
+  s_b2db8f0a2223d1::t_128da8c0622ceb 289,292-296
+  s_b2db8f0a2223d1::t_1941db21e27864 209-219
+  s_b2db8f0a2223d1::t_da79d2333cbb68 297
+tests/io/iceberg/test_iceberg_changelog_schema.py
+  s_b2db8f0a2223d1::t_3f92db57afe978 4
+  s_b2db8f0a2223d1::t_df7ae477d5cd05 3,13,21,78-80,85,92-113,115,118,120,129,134,138-139,141,151,155,159-161,163-170,174-176,179,188,191-195,199,201,204-205,217,219,223-252,257,259,322-324,406-409,411-427,430-434,450-458
+  s_b2db8f0a2223d1::t_d92dfd646c91b8 269-312,329-365
+  s_b2db8f0a2223d1::t_e49e95392e96c1 440-441,443-446
+  s_f33988c80839dc::t_c07e5468175e3d 442,447-449
+  s_b2db8f0a2223d1::t_43ebf14feda1b2 254
+  s_b2db8f0a2223d1::t_ab9d1eb98ec707 368-373
+  s_b2db8f0a2223d1::t_c07cb3ac9279fb 410
+  s_b2db8f0a2223d1::t_6c0bc9c2e84852 428-429,435-439,459-475,477-504
+  s_b2db8f0a2223d1::t_bdbfe16f96dbb1 366-367
+daft/io/iceberg/_changelog_schema.py
+  s_b2db8f0a2223d1::t_37c2a63e22badb 117-131
+  s_b2db8f0a2223d1::t_2f407dd9a70369 190-195
+  s_b2db8f0a2223d1::t_898effe0058367 40
+  s_b2db8f0a2223d1::t_853961ca882542 3-30,37,44,55-56,58-64,66-68,70-73,75-79,102,105-106,133-138,146-160,164-189,196-206,212-220,227,229-230,233-235,243-244,246,248,255,258
+  s_b2db8f0a2223d1::t_aed9d5180f20bb 48
+  s_b2db8f0a2223d1::t_12997b92e2995d 98
+  s_b2db8f0a2223d1::t_449c888573ee25 161,207-211
+tests/io/iceberg/test_iceberg_schema_evolution.py
+  s_b2db8f0a2223d1::t_0fbf24dbe491fb 202-204,213-216,247-250
+  s_b2db8f0a2223d1::t_7e2610df862443 1-201,205-212,217-246,251-355
+tests/io/iceberg/test_iceberg_changes.py
+  s_b2db8f0a2223d1::t_42dd67ed16ff26 122,124,126-166
+  s_b2db8f0a2223d1::t_6b401bffca189f 123,125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ae0eb1c3bbf2add88d685423d68d3da36d88feb0",
+  "prompts": {},
+  "sessions": {
+    "s_b2db8f0a2223d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7162defc-a8be-49fa-b7ef-4d23f0a87cef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    },
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

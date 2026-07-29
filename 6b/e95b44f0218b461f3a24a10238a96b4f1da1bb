@@ -1,0 +1,25 @@
+tests/io/iceberg/test_iceberg_changelog_net_changes.py
+  s_b2db8f0a2223d1::t_858a8fbd9056cd 349-363
+  s_b2db8f0a2223d1::t_9b7a923de92b5f 269-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6be95b44f0218b461f3a24a10238a96b4f1da1bb",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  },
+  "sessions": {
+    "s_b2db8f0a2223d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7162defc-a8be-49fa-b7ef-4d23f0a87cef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+daft/io/iceberg/_changelog_net_changes.py
+  s_b2db8f0a2223d1::t_6c8b6b9ad8bad6 42
+  s_b2db8f0a2223d1::t_9329a23018887d 135
+  s_b2db8f0a2223d1::t_3489a0b3cdfd33 95
+  s_b2db8f0a2223d1::t_f380fd8793277b 1-7,9-11,13-41,43-66,68-94,96-115,117-134,136-149,151-155,157-173
+  s_b2db8f0a2223d1::t_326d108984bbb5 8
+  s_b2db8f0a2223d1::t_72847deefe9b7d 116,150
+  s_b2db8f0a2223d1::t_3cd17a7d2c8834 156
+  s_b2db8f0a2223d1::t_eccc15c48e832b 12
+  s_b2db8f0a2223d1::t_7c59706033afb3 67
+tests/io/iceberg/test_iceberg_changes.py
+  s_b2db8f0a2223d1::t_fda88bd1f44c1f 474-513
+daft/io/iceberg/_iceberg.py
+  s_b2db8f0a2223d1::t_70f9529712d957 323-326,328-330,332,334-336,338
+  s_b2db8f0a2223d1::t_2a385ddf178056 256-265,277,287-290
+  s_b2db8f0a2223d1::t_72847deefe9b7d 337
+  s_b2db8f0a2223d1::t_6b0803d4636c6b 220-222
+  s_b2db8f0a2223d1::t_7673201b70a570 203
+  s_b2db8f0a2223d1::t_3c0a13d9bf5fba 291
+tests/io/iceberg/test_iceberg_changelog_net_changes.py
+  s_b2db8f0a2223d1::t_089934ab23ccd8 78-80
+  s_b2db8f0a2223d1::t_dabc55ff33c8fc 121,127,133,139
+  s_b2db8f0a2223d1::t_3d486f9543fc2a 199-206
+  s_b2db8f0a2223d1::t_246fe38c5ce681 1-2,5-58,62-69,74-77,81-120,122-126,128-132,134-138,140-165,167-198,207-267
+  s_b2db8f0a2223d1::t_72bcdf13669a0b 3-4
+  s_b2db8f0a2223d1::t_b8e0e40bbeb8f7 73
+  s_b2db8f0a2223d1::t_8dbbf725103ba1 70-72
+  s_b2db8f0a2223d1::t_0b8feeb65d7ac0 59-61
+  s_b2db8f0a2223d1::t_0dfa6cec79c934 166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "03c252d85198250c57fe12c8bfc786f42beea448",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  },
+  "sessions": {
+    "s_b2db8f0a2223d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7162defc-a8be-49fa-b7ef-4d23f0a87cef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

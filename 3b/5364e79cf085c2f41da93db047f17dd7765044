@@ -1,0 +1,57 @@
+example/text/chunk.py
+  h_9e8b59a166efb2 35
+Dockerfile
+  h_9e8b59a166efb2 25
+packages/dtoperator/src/dtoperator/dataset.py
+  s_db82a734f2f374::t_9c9a5ee8121c9a 484-490,506-509,511
+  s_db82a734f2f374::t_f94edee605e57e 598-604,629-634
+  s_db82a734f2f374::t_b82571be63b9f5 8
+  s_db82a734f2f374::t_9eb15fbc9d1662 493,505,510,612,628,637
+packages/dtoperator_core/pyproject.toml
+  h_9e8b59a166efb2 7
+packages/dtoperator/src/dtoperator/dataset_io/iceberg.py
+  s_db82a734f2f374::t_cafedce189e0d9 40-43,100,138
+  s_db82a734f2f374::t_338f11ce71037a 8,11,73-78,147
+packages/dtoperator/src/dtoperator/dataset_io/gravitino.py
+  s_db82a734f2f374::t_a735b951aafe94 13
+  s_db82a734f2f374::t_0ea68993227fe8 272-288,291,300-306,308
+  s_db82a734f2f374::t_5a0419dca35a74 177,204,219,253,324
+  s_db82a734f2f374::t_b5a33ad333cd8d 14
+packages/dtoperator/pyproject.toml
+  h_9e8b59a166efb2 7,12
+example/iceberg/write_dataset_gravitino.py
+  s_db82a734f2f374::t_228cd592766f4a 5,81-95,133
+  h_9e8b59a166efb2 76-77
+tests/test_dataset.py
+  s_db82a734f2f374::t_442f77455fd00c 313,356,360,363-364,371,386,399,703,758,829
+  s_db82a734f2f374::t_9342fcd5da1d2d 647-648,659-662,831-832,844-847
+  s_db82a734f2f374::t_34dd418753c3ab 9,31,51-58
+  s_db82a734f2f374::t_267b981fb02b3b 209,256,283,322,358,380
+  s_db82a734f2f374::t_d924764d714067 565,750-757,759-799
+  s_db82a734f2f374::t_5d418c3b953272 229-230,539-540
+  s_db82a734f2f374::t_7c065e1d685aa5 59-60
+  s_db82a734f2f374::t_db329ba356913c 800-802
+example/iceberg/read_dataset_gravitino.py
+  h_9e8b59a166efb2 45-46,50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "3b5364e79cf085c2f41da93db047f17dd7765044",
+  "prompts": {},
+  "humans": {
+    "h_9e8b59a166efb2": {
+      "author": "sihuo <sihuo@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_db82a734f2f374": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5a2f-0957-7581-b6d7-d3e4c5eaf52e",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

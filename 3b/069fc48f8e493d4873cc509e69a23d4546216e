@@ -1,0 +1,14 @@
+packages/dtoperator/pyproject.toml
+  h_9e8b59a166efb2 7,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "3b069fc48f8e493d4873cc509e69a23d4546216e",
+  "prompts": {},
+  "humans": {
+    "h_9e8b59a166efb2": {
+      "author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

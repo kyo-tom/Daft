@@ -1,0 +1,87 @@
+packages/dtoperator/src/dtoperator/functions/audio/audio_split_by_timestamps.py
+  s_99cadf58bf50ae::t_33d990c409d07b 20-27
+  s_99cadf58bf50ae::t_e6670bd50a3877 29-30,34,49,52,101,122-123,127-132,137,139-140
+example/audio/audio_split_by_timestamps.py
+  s_99cadf58bf50ae::t_e27d539407a78f 38,40
+example/audio/audio_convert.py
+  h_9e8b59a166efb2 30,46
+  s_99cadf58bf50ae::t_b96a53fe6d2ffe 44
+tests/audio/test_audio_convert.py
+  s_99cadf58bf50ae::t_b96a53fe6d2ffe 52-86
+tests/audio/test_audio_split_by_timestamps.py
+  s_99cadf58bf50ae::t_e27d539407a78f 22-24,34,40-45,47
+  s_99cadf58bf50ae::t_e614b58dd8ae55 15
+  s_99cadf58bf50ae::t_64cdfcc88c6295 14
+  s_99cadf58bf50ae::t_71ff5888c469e7 16-21
+packages/dtoperator/src/dtoperator/functions/audio/audio_asr_firered.py
+  s_99cadf58bf50ae::t_e6670bd50a3877 111,115
+docs/audio/audio_split_by_timestamps.md
+  s_99cadf58bf50ae::t_35360acc8ead58 55,62-67,91-92
+  s_99cadf58bf50ae::t_feac71471adc7f 7,12,27,33
+packages/dtoperator/pyproject.toml
+  h_9e8b59a166efb2 7,12
+tests/video/test_qwen_vl_video_understanding.py
+  s_db82a734f2f374::t_f254f31a12fdb9 53-54,60,83,102-103,138-177
+  s_db82a734f2f374::t_b76c17bfd922ad 178-179
+example/audio/audio_denoise.py
+  h_9e8b59a166efb2 32,49
+  s_99cadf58bf50ae::t_e27d539407a78f 47
+example/video/qwen_vl_video_understanding.py
+  s_db82a734f2f374::t_9474423641e8be 48
+docs/audio/audio_asr_firered.md
+  s_99cadf58bf50ae::t_35360acc8ead58 101
+  s_99cadf58bf50ae::t_feac71471adc7f 13
+docs/video/qwen_vl_video_understanding.md
+  s_db82a734f2f374::t_425b50a4036681 7,15-16,31,33,54,85,116,123-127
+  s_db82a734f2f374::t_3c2b779fae126c 128
+packages/dtoperator/src/dtoperator/functions/audio/audio_convert.py
+  s_99cadf58bf50ae::t_ffdb87cc839dec 6,18-26,33,42-47,92,94-97
+packages/dtoperator/src/dtoperator/functions/video/qwen_vl_video_understanding.py
+  s_db82a734f2f374::t_0ed0cfaaa556bb 6,120
+  s_db82a734f2f374::t_945d0d94f92598 29,61-63,65-69,94-97,99-119,121-131,151-152,155-156,171
+  h_9e8b59a166efb2 98
+docs/audio/audio_convert.md
+  s_99cadf58bf50ae::t_b96a53fe6d2ffe 7,25-26,35,54,59-62,84-87
+example/audio/audio_asr_firered.py
+  s_99cadf58bf50ae::t_e27d539407a78f 35,48
+tests/audio/test_audio_denoise.py
+  s_99cadf58bf50ae::t_e27d539407a78f 40,48-49,51,54,60
+tests/audio/test_audio_asr_firered.py
+  s_99cadf58bf50ae::t_e27d539407a78f 40,46,52,56-58
+docs/audio/audio_denoise.md
+  s_99cadf58bf50ae::t_feac71471adc7f 7,14
+  s_99cadf58bf50ae::t_118697ac3bfc75 30
+  s_99cadf58bf50ae::t_35360acc8ead58 31,56,61-64,86-89
+packages/dtoperator/src/dtoperator/functions/audio/audio_denoise.py
+  s_99cadf58bf50ae::t_e6670bd50a3877 117,121
+  s_99cadf58bf50ae::t_33d990c409d07b 5,25-26,38,44-50,120,122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "f854afdb4149d5b88744517e55204c0db925eee0",
+  "prompts": {},
+  "humans": {
+    "h_9e8b59a166efb2": {
+      "author": "sihuo <sihuo@dtstack.com>"
+    }
+  },
+  "sessions": {
+    "s_99cadf58bf50ae": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3b20-7df0-7a73-be52-89e90f8455ba",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    },
+    "s_db82a734f2f374": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f5a2f-0957-7581-b6d7-d3e4c5eaf52e",
+        "model": "gpt-5.4"
+      },
+      "human_author": "sihuo <sihuo@dtstack.com>"
+    }
+  }
+}

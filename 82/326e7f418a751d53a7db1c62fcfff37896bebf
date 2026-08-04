@@ -1,0 +1,19 @@
+daft/io/iceberg/iceberg_changes_scan.py
+  s_f33988c80839dc::t_15a0baa3b926a5 36,263
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "82326e7f418a751d53a7db1c62fcfff37896bebf",
+  "prompts": {},
+  "sessions": {
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

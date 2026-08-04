@@ -1,0 +1,31 @@
+tests/io/iceberg/test_iceberg_changes.py
+  s_f33988c80839dc::t_e285bf018d2012 473-493
+  s_f33988c80839dc::t_2872e744152bb2 471-472,494-518
+daft/io/iceberg/_changelog_net_changes.py
+  s_f33988c80839dc::t_e285bf018d2012 1-105
+  s_f33988c80839dc::t_f7641549166d77 106-108
+  s_f33988c80839dc::t_22be8432467d1b 109-169
+tests/io/iceberg/test_iceberg_changelog_net_changes.py
+  s_f33988c80839dc::t_e285bf018d2012 30-518
+  s_f33988c80839dc::t_cf740e034612d8 27-29
+  s_f33988c80839dc::t_83fcaa7e370de6 519-521
+  s_f33988c80839dc::t_b9d93ca9fa628e 1-26,522-530
+daft/io/iceberg/_iceberg.py
+  s_f33988c80839dc::t_a65fc1ed6bb3d0 216,232-234,268-277,289,299-303,334-337,339-341,343,345-349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5f87aa0b5d6cb54fe648a9b11c01eae8210a053f",
+  "prompts": {},
+  "sessions": {
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

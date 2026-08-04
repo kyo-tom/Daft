@@ -1,0 +1,33 @@
+daft/io/iceberg/_iceberg.py
+  s_f33988c80839dc::t_10771e24c0eaca 222-232,302,305-310
+daft/io/iceberg/iceberg_changes_scan.py
+  s_f33988c80839dc::t_bc5d368c23c074 31,134-138
+tests/io/iceberg/test_iceberg_changelog_schema.py
+  s_f33988c80839dc::t_bacb7de30d12ca 3-4,13,21,78-80,85,92-113,115,118,120,129,134,138-139,141,151,155,159-161,163-170,174-176,179,188,191-195,199,201,204-205,217,219,223-252,254,257,259,269-312,322-324,329-373,406-475,477-504
+tests/io/iceberg/test_iceberg_schema_evolution.py
+  s_f33988c80839dc::t_84362bd864e221 1-355
+daft/io/iceberg/_changelog_planning.py
+  s_f33988c80839dc::t_4d026228ed98e7 71
+daft/io/iceberg/_changelog_schema.py
+  s_f33988c80839dc::t_746c39ca0bed26 3-30,37,40,44,48,55-56,58-64,66-68,70-73,75-79,98,102,105-106,117-131,133-138,146-161,164-220,227,229-230,233-235,243-244,246,248,255,258
+tests/io/iceberg/test_iceberg_changes.py
+  s_f33988c80839dc::t_1b1887e2ee9915 122-166
+tests/io/iceberg/test_iceberg_schema_evolution_cdc.py
+  s_f33988c80839dc::t_3ebd51f5977a88 1-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "704239871034b76b6b90be838969ff1366f82f09",
+  "prompts": {},
+  "sessions": {
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

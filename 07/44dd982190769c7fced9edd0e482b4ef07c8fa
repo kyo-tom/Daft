@@ -1,0 +1,62 @@
+daft/io/iceberg/iceberg_changes_scan.py
+  s_b2db8f0a2223d1::t_c4860d9e2cfcfc 45-46
+  s_b2db8f0a2223d1::t_14cffdeced1499 123,128-131,134-141
+  s_b2db8f0a2223d1::t_9eb419bf3eaffd 220-223,240
+  s_b2db8f0a2223d1::t_63e6637eced5f6 260
+tests/io/iceberg/test_iceberg_changelog_pairing.py
+  s_b2db8f0a2223d1::t_ffe963ff556359 1-134,223-357
+  s_b2db8f0a2223d1::t_21dca26729f732 135-222
+tests/io/iceberg/test_iceberg_changelog_planning.py
+  s_b2db8f0a2223d1::t_341acc8f78726f 302-390
+  s_b2db8f0a2223d1::t_5d0922eaeeec77 19,24
+daft/io/iceberg/_changelog_pairing.py
+  s_b2db8f0a2223d1::t_471eb5552c317c 64,135-137
+  s_b2db8f0a2223d1::t_6ec844b1f5c30d 121-126,128-130
+  s_b2db8f0a2223d1::t_7724e9da577bcf 1-63,65-120,127,131-134,138-149
+daft/io/iceberg/_changelog_planning.py
+  s_b2db8f0a2223d1::t_b026f2a996cbc6 93-95
+  s_b2db8f0a2223d1::t_61b977b4c574ba 19,26-92,96-105
+  s_b2db8f0a2223d1::t_09af7b61f3052d 106-107
+daft/io/iceberg/_changelog_postprocess.py
+  s_b2db8f0a2223d1::t_e11b80be11232b 65
+  s_b2db8f0a2223d1::t_67d19e940cba62 21-22,24-27,35-38,40-44
+  s_b2db8f0a2223d1::t_8be51c5f1a16d3 20,23,28-34,39
+  s_b2db8f0a2223d1::t_9b5689062aa8e1 79-80,83-84,87
+tests/io/iceberg/test_iceberg_changes.py
+  s_b2db8f0a2223d1::t_cc38940c4681ab 378-381,392,410-411,420-425,441-446
+  s_b2db8f0a2223d1::t_996a4718e90cb6 462-473
+  s_b2db8f0a2223d1::t_35ef477cb4eabf 409
+  s_b2db8f0a2223d1::t_1e971233a5600d 352-377,382-391,393-408,412-419,426-440,447-461
+daft/io/iceberg/_iceberg.py
+  s_b2db8f0a2223d1::t_b1b21f5f91b108 282,291-299,312,327
+  s_b2db8f0a2223d1::t_3f69107e950bf9 214-215,227-233,249-267,278,288-290,322-326,328,330
+  s_b2db8f0a2223d1::t_2d9b832a074dbd 329
+tests/io/iceberg/test_iceberg_changelog_postprocess.py
+  s_b2db8f0a2223d1::t_68f4cf6ba036ed 278-280,283,323-325,368-371,378-386,393-399
+  s_b2db8f0a2223d1::t_956d73dc42e6d1 281-282,284-322,327,331-367,372-377,387-392
+  s_b2db8f0a2223d1::t_12f80586dc39a0 326,328-330
+tests/io/iceberg/test_iceberg_changelog_scan_operator.py
+  s_b2db8f0a2223d1::t_9147acc7151a4b 64,67
+  s_b2db8f0a2223d1::t_2f6acffcded163 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "0744dd982190769c7fced9edd0e482b4ef07c8fa",
+  "prompts": {},
+  "humans": {
+    "h_5245667995f293": {
+      "author": "kyotom <kyotom@163.com>"
+    }
+  },
+  "sessions": {
+    "s_b2db8f0a2223d1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7162defc-a8be-49fa-b7ef-4d23f0a87cef",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

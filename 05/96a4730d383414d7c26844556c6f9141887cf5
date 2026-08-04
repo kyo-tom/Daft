@@ -1,0 +1,20 @@
+docs/connectors/iceberg.md
+  s_f33988c80839dc::t_5e9a43bbc89281 71-72,74-144
+  s_f33988c80839dc::t_163f966913547b 73,467
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "0596a4730d383414d7c26844556c6f9141887cf5",
+  "prompts": {},
+  "sessions": {
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}

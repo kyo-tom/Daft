@@ -1,0 +1,20 @@
+tests/io/iceberg/test_iceberg_schema_evolution_cdc.py
+  s_f33988c80839dc::t_dd62c8d4a7ff2f 85-100,103-112
+  s_f33988c80839dc::t_58646d9c35978a 101-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "38a543a22695bd1d7317f21845378982c5d16fd3",
+  "prompts": {},
+  "sessions": {
+    "s_f33988c80839dc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fab82-cd45-7a11-8ba4-5986d474344a",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kyotom <kyotom@163.com>"
+    }
+  }
+}
